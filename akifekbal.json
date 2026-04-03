@@ -1,17 +1,16 @@
-[
-  {
-    "pkg": "com.whatsapp",
-    "activity": "com.whatsapp.Main",
-    "name": "WhatsApp"
-  },
-  {
-    "pkg": "com.instagram.android",
-    "activity": "com.instagram.mainactivity.MainActivity",
-    "name": "Instagram"
-  },
-  {
-    "pkg": "com.facebook.katana",
-    "activity": "com.facebook.katana.LoginActivity",
-    "name": "Facebook"
-  }
-]
+{
+  "icons": [
+    {
+      "package": "com.whatsapp",
+      "name": "WhatsApp"
+    },
+    {
+      "package": "com.instagram.android",
+      "name": "Instagram"
+    },
+    {
+      "package": "com.facebook.katana",
+      "name": "Facebook"
+    }
+  ]
+}
