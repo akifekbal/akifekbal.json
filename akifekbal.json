@@ -1,16 +1,7 @@
 {
-  "icons": [
-    {
-      "package": "com.whatsapp",
-      "name": "WhatsApp"
-    },
-    {
-      "package": "com.instagram.android",
-      "name": "Instagram"
-    },
-    {
-      "package": "com.facebook.katana",
-      "name": "Facebook"
-    }
-  ]
+  "url": "https://play.google.com/store/apps/details?id=your.app",
+  "disableRequest": {
+    "below": 0,
+    "on": ""
+  }
 }
